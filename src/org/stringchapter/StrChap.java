@@ -76,12 +76,14 @@ public static void main(String[] args) {
 	System.out.println(substring2);
 	
 	System.out.println("End......................");
+	System.out.println("jeni.............");
+	System.out.println("Swe...............");
+	System.out.println("Bharathy..............");
 	System.out.println("muthu............");
 	System.out.println("sandal..........");
 	System.out.println("jeni...........");
 	System.out.println("mannandho..........");
-	
-	
+
 	
 	
 	
